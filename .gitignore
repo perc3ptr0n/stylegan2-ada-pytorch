@@ -1,2 +1,9 @@
 __pycache__/
 .cache/
+best_results/
+models/
+prepared_datasets/
+training-runs*
+*.zip
+out/
+
